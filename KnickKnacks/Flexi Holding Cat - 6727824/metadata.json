@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "displayName": "Flexi Holding Cat",
+  "tags": [
+    "articulated",
+    "toy"
+  ],
+  "importedAt": "2026-07-25T19:56:10.761Z",
+  "lastEditedAt": "2026-07-25T19:56:10.761Z",
+  "printFiles": {
+    "Flexi Holding Cat - Long_0.4n_0.3mm_PLA_MK4S_47m.bgcode": {
+      "images": [
+        "PXL_20260725_195134305.jpg"
+      ]
+    },
+    "Flexi Holding Cat_0.4n_0.3mm_PLA_MK4S_35m.bgcode": {
+      "images": [
+        "PXL_20260725_195255838.jpg"
+      ]
+    }
+  }
+}
