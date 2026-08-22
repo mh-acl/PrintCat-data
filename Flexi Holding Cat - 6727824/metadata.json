@@ -5,7 +5,7 @@
     "articulated"
   ],
   "importedAt": "2026-07-25T19:56:10.761Z",
-  "lastEditedAt": "2026-07-26T19:09:38.480Z",
+  "lastEditedAt": "2026-08-22T04:33:56.102Z",
   "printFiles": {
     "Flexi Holding Cat - Long_0.4n_0.3mm_PLA_MK4S_47m.bgcode": {
       "images": [
@@ -17,5 +17,10 @@
         "PXL_20260725_195255838.jpg"
       ]
     }
+  },
+  "origin": {
+    "url": "https://www.thingiverse.com/thing:6727824",
+    "creatorName": "3D_FlexSeeds",
+    "creatorUrl": "https://www.thingiverse.com/3D_FlexSeeds"
   }
 }
