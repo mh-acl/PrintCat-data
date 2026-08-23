@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "displayName": "Lizard",
+  "tags": [],
+  "importedAt": "2026-08-23T04:02:47.057Z",
+  "lastEditedAt": "2026-08-23T04:02:47.057Z",
+  "printFiles": {
+    "Lizard - small_0.4n_0.2mm_PLA_MK4S_27m.bgcode": {
+      "images": [
+        "PXL_20260822_202945875.jpg"
+      ]
+    },
+    "Lizard - large_0.4n_0.2mm_PLA_MK4S_48m.bgcode": {
+      "images": [
+        "PXL_20260822_203012136.jpg"
+      ]
+    },
+    "Lizard - huge_0.4n_0.25mm_PLA_MK4S_1h23m.bgcode": {
+      "images": [
+        "PXL_20260822_203048981.jpg"
+      ]
+    },
+    "Lizard - huge (cc)_0.4n_0.25mm_PLA_MK4S_1h24m.bgcode": {
+      "images": [
+        "PXL_20260822_204726870.jpg"
+      ]
+    },
+    "Lizard - large (cc)_0.4n_0.2mm_PLA_MK4S_48m.bgcode": {
+      "images": [
+        "PXL_20260822_204756625.jpg"
+      ]
+    },
+    "Lizard - small (cc)_0.4n_0.2mm_PLA_MK4S_27m.bgcode": {
+      "images": [
+        "PXL_20260822_204845370.jpg"
+      ]
+    }
+  },
+  "origin": {
+    "url": "https://www.thingiverse.com/thing:3505006"
+  }
+}
