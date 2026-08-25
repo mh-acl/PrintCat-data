@@ -5,7 +5,15 @@
     "figurine"
   ],
   "importedAt": "2026-07-26T19:07:17.747Z",
-  "lastEditedAt": "2026-08-22T04:33:56.104Z",
+  "lastEditedAt": "2026-08-25T21:29:54.701Z",
+  "printFiles": {
+    "Low Poly Akita Dog (large) [MK4S]_0.4n_0.2mm_PLA_MK4S_52m.gcode": {
+      "images": [
+        "Low Poly Akita Dog (large) [MK3S-0.6n].jpg"
+      ],
+      "displayName": "Low Poly Akita Dog (Large)"
+    }
+  },
   "origin": {
     "url": "https://www.thingiverse.com/thing:2295835",
     "creatorName": "FrisbeePuppy",
