@@ -1,9 +1,11 @@
 {
   "schemaVersion": 1,
   "displayName": "Lizard",
-  "tags": [],
+  "tags": [
+    "articulated"
+  ],
   "importedAt": "2026-08-23T04:02:47.057Z",
-  "lastEditedAt": "2026-08-23T04:02:47.057Z",
+  "lastEditedAt": "2026-08-25T21:48:48.572Z",
   "printFiles": {
     "Lizard - small_0.4n_0.2mm_PLA_MK4S_27m.bgcode": {
       "images": [
