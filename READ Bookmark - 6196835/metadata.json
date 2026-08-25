@@ -6,7 +6,39 @@
     "books"
   ],
   "importedAt": "2026-07-26T19:08:39.906Z",
-  "lastEditedAt": "2026-08-22T04:33:56.108Z",
+  "lastEditedAt": "2026-08-25T21:35:29.002Z",
+  "printFiles": {
+    "READ Bookmark (2 color) [MK4S]_0.4n_0.2mm_PLA_MK4S_4m.gcode": {
+      "images": [
+        "READ Bookmark (2 color).jpg"
+      ]
+    },
+    "READ Bookmark (2 color)_0.15mm_PLA_MK3S_9m.gcode": {
+      "images": [
+        "READ Bookmark (2 color).jpg"
+      ]
+    },
+    "READ Bookmark (2 color, 9x) [MK4S]_0.4n_0.2mm_PLA_MK4S_35m.gcode": {
+      "images": [
+        "READ Bookmark (2 color).jpg"
+      ]
+    },
+    "READ Bookmark (2 color, 9x)_0.15mm_PLA_MK3S_1h18m.gcode": {
+      "images": [
+        "READ Bookmark (2 color).jpg"
+      ]
+    },
+    "READ Bookmark [MK4S]_0.4n_0.2mm_PLA_MK4S_4m.gcode": {
+      "images": [
+        "READ Bookmark.jpg"
+      ]
+    },
+    "READ Bookmark_0.15mm_PLA_MK3S_9m.gcode": {
+      "images": [
+        "READ Bookmark.jpg"
+      ]
+    }
+  },
   "origin": {
     "url": "https://www.thingiverse.com/thing:6196835",
     "creatorName": "acl_makers",

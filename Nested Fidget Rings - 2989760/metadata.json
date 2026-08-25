@@ -5,7 +5,24 @@
     "fidget"
   ],
   "importedAt": "2026-07-26T19:07:50.234Z",
-  "lastEditedAt": "2026-08-22T04:33:56.106Z",
+  "lastEditedAt": "2026-08-25T21:34:50.432Z",
+  "printFiles": {
+    "Nested Fidget Rings (2 color) [mk4s]_0.4n_0.2mm_PLA_MK4S_5m.gcode": {
+      "images": [
+        "Nested Fidget Rings (2 color).jpg"
+      ]
+    },
+    "Nested Fidget Rings (2 color, 12x) [mk4s]_0.4n_0.25mm_PLA_MK4S_41m.gcode": {
+      "images": [
+        "Nested Fidget Rings (2 color).jpg"
+      ]
+    },
+    "Nested Fidget Rings [MK4S, 16x]_0.4n_0.2mm_PLA_MK4S_59m.bgcode": {
+      "images": [
+        "Nested Fidget Rings (2 color).jpg"
+      ]
+    }
+  },
   "origin": {
     "url": "https://www.thingiverse.com/thing:2989760",
     "creatorName": "switchborg",

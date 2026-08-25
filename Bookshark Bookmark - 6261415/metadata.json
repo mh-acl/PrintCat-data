@@ -6,7 +6,24 @@
     "books"
   ],
   "importedAt": "2026-07-25T14:43:17.091Z",
-  "lastEditedAt": "2026-08-22T04:33:56.096Z",
+  "lastEditedAt": "2026-08-25T21:32:02.381Z",
+  "printFiles": {
+    "BookShark Bookmark [MK4S] (10x)_0.4n_0.2mm_PLA_MK4S_37m.gcode": {
+      "images": [
+        "BookShark Bookmark.jpg"
+      ]
+    },
+    "BookShark Bookmark [MK4S]_0.4n_0.2mm_PLA_MK4S_4m.gcode": {
+      "images": [
+        "BookShark Bookmark.jpg"
+      ]
+    },
+    "BookShark Bookmark_0.2mm_PLA_MK3S_7m.gcode": {
+      "images": [
+        "BookShark Bookmark.jpg"
+      ]
+    }
+  },
   "origin": {
     "url": "https://www.thingiverse.com/thing:6261415",
     "creatorName": "blecheimer",
