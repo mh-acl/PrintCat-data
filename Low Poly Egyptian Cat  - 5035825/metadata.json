@@ -5,10 +5,13 @@
     "figurine"
   ],
   "importedAt": "2026-07-26T19:07:27.766Z",
-  "lastEditedAt": "2026-08-25T21:22:38.922Z",
+  "lastEditedAt": "2026-08-25T21:28:02.309Z",
   "printFiles": {
     "Low Poly Egyptian Cat (large) [MK4S]_0.4n_0.32mm_PLA_MK4S_43m.gcode": {
-      "displayName": "Low Poly Egyptian Cat (Large)"
+      "displayName": "Low Poly Egyptian Cat (Large)",
+      "images": [
+        "Low Poly Egyptian Cat (large) [MK3S-0.6n](2).jpg"
+      ]
     }
   },
   "origin": {
