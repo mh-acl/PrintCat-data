@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "displayName": "Cute Mini Octopus",
+  "tags": [
+    "articulated"
+  ],
+  "importedAt": "2026-08-25T21:55:58.113Z",
+  "lastEditedAt": "2026-08-25T21:55:58.113Z",
+  "printFiles": {
+    "Octopus_0.4n_0.2mm_PLA_MK4S_1h12m.bgcode": {
+      "images": [
+        "PXL_20260825_215110221.jpg"
+      ]
+    }
+  }
+}
