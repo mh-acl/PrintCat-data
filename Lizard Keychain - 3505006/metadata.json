@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "displayName": "Lizard Keychain",
+  "tags": [],
+  "importedAt": "2026-08-26T02:37:49.219Z",
+  "lastEditedAt": "2026-08-26T02:37:56.246Z",
+  "printFiles": {
+    "Lizard Keychain - large (cc)_0.4n_0.2mm_PLA_MK4S_49m.bgcode": {
+      "images": [
+        "PXL_20260826_010649533.jpg"
+      ]
+    },
+    "Lizard Keychain - large_0.4n_0.2mm_PLA_MK4S_48m.bgcode": {
+      "images": [
+        "PXL_20260826_010611104.jpg"
+      ]
+    },
+    "Lizard Keychain - small (cc)_0.4n_0.2mm_PLA_MK4S_27m.bgcode": {
+      "images": [
+        "PXL_20260825_232616946.jpg"
+      ]
+    },
+    "Lizard Keychain - small_0.4n_0.2mm_PLA_MK4S_27m.bgcode": {
+      "images": [
+        "PXL_20260825_232524130.jpg"
+      ]
+    }
+  },
+  "origin": {
+    "url": "https://www.thingiverse.com/thing:3505006"
+  }
+}
