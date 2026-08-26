@@ -5,7 +5,24 @@
     "container"
   ],
   "importedAt": "2026-07-26T19:06:40.810Z",
-  "lastEditedAt": "2026-08-22T04:33:56.100Z",
+  "lastEditedAt": "2026-08-26T02:14:02.083Z",
+  "printFiles": {
+    "Faceted Vase (large) [MK3S-0.6n]_0.6n_0.48mm_PLA_MK3S_1h26m.gcode": {
+      "images": [
+        "Faceted Vase [MK3S-0.6n].jpg"
+      ]
+    },
+    "Faceted Vase (large) [MK4S]_0.4n_0.32mm_PLA_MK4S_1h20m.bgcode": {
+      "images": [
+        "Faceted Vase [MK3S-0.6n].jpg"
+      ]
+    },
+    "Faceted Vase [MK3S-0.6n]_0.6n_0.48mm_PLA_MK3S_55m.gcode": {
+      "images": [
+        "Faceted Vase [MK3S-0.6n].jpg"
+      ]
+    }
+  },
   "origin": {
     "url": "https://www.thingiverse.com/thing:2230232",
     "creatorName": "billbo1958",
