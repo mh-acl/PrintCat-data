@@ -1,9 +1,12 @@
 {
   "schemaVersion": 1,
   "displayName": "Lizard Keychain",
-  "tags": [],
+  "tags": [
+    "articulated",
+    "keychain"
+  ],
   "importedAt": "2026-08-26T02:37:49.219Z",
-  "lastEditedAt": "2026-08-27T00:37:45.843Z",
+  "lastEditedAt": "2026-08-27T19:09:32.965Z",
   "printFiles": {
     "Lizard Keychain - large (cc)_0.4n_0.2mm_PLA_MK4S_49m.bgcode": {
       "images": [
