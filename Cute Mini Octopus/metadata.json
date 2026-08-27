@@ -5,12 +5,17 @@
     "articulated"
   ],
   "importedAt": "2026-08-25T21:55:58.113Z",
-  "lastEditedAt": "2026-08-25T22:03:15.808Z",
+  "lastEditedAt": "2026-08-27T00:51:49.570Z",
   "printFiles": {
     "Octopus_0.4n_0.2mm_PLA_MK4S_1h12m.bgcode": {
       "images": [
         "PXL_20260825_215110221.jpg"
       ]
     }
+  },
+  "origin": {
+    "url": "https://printables.com/model/178035-cute-mini-octopus",
+    "creatorName": "McGybeer",
+    "creatorUrl": "https://printables.com/@McGybeer"
   }
 }
