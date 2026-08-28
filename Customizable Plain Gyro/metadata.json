@@ -5,5 +5,18 @@
     "fidget"
   ],
   "importedAt": "2026-08-27T19:05:38.810Z",
-  "lastEditedAt": "2026-08-27T19:05:38.810Z"
+  "lastEditedAt": "2026-08-28T05:38:54.994Z",
+  "printFiles": {
+    "Quick Gyro (12x)_0.4n_0.2mm_PLA_MK4S_1h21m.gcode": {
+      "images": [
+        "Quick Gyro.jpg"
+      ]
+    },
+    "Quick Gyro_0.4n_0.2mm_PLA_MK4S_7m.gcode": {
+      "images": [
+        "Quick Gyro.jpg"
+      ]
+    }
+  },
+  "itemImage": "Quick Gyro.jpg"
 }

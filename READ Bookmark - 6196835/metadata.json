@@ -6,7 +6,7 @@
     "books"
   ],
   "importedAt": "2026-07-26T19:08:39.906Z",
-  "lastEditedAt": "2026-08-25T21:35:29.002Z",
+  "lastEditedAt": "2026-08-28T05:40:13.486Z",
   "printFiles": {
     "READ Bookmark (2 color) [MK4S]_0.4n_0.2mm_PLA_MK4S_4m.gcode": {
       "images": [
@@ -43,5 +43,6 @@
     "url": "https://www.thingiverse.com/thing:6196835",
     "creatorName": "acl_makers",
     "creatorUrl": "https://www.thingiverse.com/acl_makers"
-  }
+  },
+  "itemImage": "thumb.jpg"
 }
