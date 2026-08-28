@@ -5,10 +5,23 @@
     "fidget"
   ],
   "importedAt": "2026-07-26T19:07:02.497Z",
-  "lastEditedAt": "2026-08-22T04:33:56.103Z",
+  "lastEditedAt": "2026-08-28T23:23:06.299Z",
+  "printFiles": {
+    "Infinity Fidget Cube [MK4S]_0.4n_0.2mm_PLA_MK4S_1h57m.gcode": {
+      "images": [
+        "Infinity Fidget Cube.jpg"
+      ]
+    },
+    "Infinity Fidget Cube_0.2mm_PLA_MK3S_2h47m.gcode": {
+      "images": [
+        "Infinity Fidget Cube.jpg"
+      ]
+    }
+  },
   "origin": {
     "url": "https://www.thingiverse.com/thing:4997903",
     "creatorName": "mjdargen",
     "creatorUrl": "https://www.thingiverse.com/mjdargen"
-  }
+  },
+  "itemImage": "Infinity Fidget Cube.jpg"
 }

@@ -6,10 +6,23 @@
     "gears"
   ],
   "importedAt": "2026-07-26T19:06:17.824Z",
-  "lastEditedAt": "2026-08-22T04:33:56.098Z",
+  "lastEditedAt": "2026-08-28T23:23:38.453Z",
+  "printFiles": {
+    "Elliptical Gear Fidget (2 color) [MK4S]_0.4n_0.32mm_PLA_MK4S_28m.gcode": {
+      "images": [
+        "Elliptical Gear Fidget (2 color).jpg"
+      ]
+    },
+    "Elliptical Gear Fidget (2 color)_0.32mm_PLA_MK3S_59m.gcode": {
+      "images": [
+        "Elliptical Gear Fidget (2 color).jpg"
+      ]
+    }
+  },
   "origin": {
     "url": "https://www.thingiverse.com/thing:1082508",
     "creatorName": "cohlwiler",
     "creatorUrl": "https://www.thingiverse.com/cohlwiler"
-  }
+  },
+  "itemImage": "Elliptical Gear Fidget (2 color).jpg"
 }
