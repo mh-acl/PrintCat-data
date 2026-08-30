@@ -1,12 +1,32 @@
 {
   "schemaVersion": 1,
   "displayName": "Bobbin Holder and Clip",
-  "tags": [],
+  "tags": [
+    "sewing"
+  ],
   "importedAt": "2026-08-22T04:33:56.095Z",
-  "lastEditedAt": "2026-08-22T04:33:56.095Z",
+  "lastEditedAt": "2026-08-30T17:02:14.516Z",
+  "printFiles": {
+    "Bobbin Holder and Clip (1x) [MK4S]_0.4n_0.25mm_PLA_MK4S_6m.gcode": {
+      "images": [
+        "Bobbin Holder and Clip.jpg"
+      ]
+    },
+    "Bobbin Holder and Clip (20x) [MK4S]_0.4n_0.25mm_PLA_MK4S_1h34m.gcode": {
+      "images": [
+        "Bobbin Holder and Clip.jpg"
+      ]
+    },
+    "Bobbin Holder and Clip (5x) [MK4S]_0.4n_0.25mm_PLA_MK4S_24m.gcode": {
+      "images": [
+        "Bobbin Holder and Clip.jpg"
+      ]
+    }
+  },
   "origin": {
     "url": "https://www.thingiverse.com/thing:4683266",
     "creatorName": "RonaldGlassford",
     "creatorUrl": "https://www.thingiverse.com/RonaldGlassford"
-  }
+  },
+  "itemImage": "Bobbin Holder and Clip.jpg"
 }
