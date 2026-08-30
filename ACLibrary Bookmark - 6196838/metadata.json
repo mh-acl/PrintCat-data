@@ -6,7 +6,7 @@
     "books"
   ],
   "importedAt": "2026-07-26T19:04:25.880Z",
-  "lastEditedAt": "2026-08-25T21:30:49.225Z",
+  "lastEditedAt": "2026-08-30T17:44:19.484Z",
   "printFiles": {
     "ACLibrary Bookmark (2 color) [MK4S]_0.4n_0.2mm_PLA_MK4S_3m.gcode": {
       "images": [
@@ -22,11 +22,27 @@
       "images": [
         "ACLibrary Bookmark (2 color).jpg"
       ]
+    },
+    "ACLibrary Bookmark (2 color)_0.15mm_PLA_MK3S_9m.gcode": {
+      "images": [
+        "ACLibrary Bookmark (2 color).jpg"
+      ]
+    },
+    "ACLibrary Bookmark [MK4S]_0.4n_0.2mm_PLA_MK4S_4m.gcode": {
+      "images": [
+        "ACLibrary Bookmark.jpg"
+      ]
+    },
+    "ACLibrary Bookmark_0.15mm_PLA_MK3S_8m.gcode": {
+      "images": [
+        "ACLibrary Bookmark.jpg"
+      ]
     }
   },
   "origin": {
     "url": "https://www.thingiverse.com/thing:6196838",
     "creatorName": "acl_makers",
     "creatorUrl": "https://www.thingiverse.com/acl_makers"
-  }
+  },
+  "itemImage": "thumb.jpg"
 }
