@@ -5,7 +5,24 @@
     "articulated"
   ],
   "importedAt": "2026-07-25T19:58:25.571Z",
-  "lastEditedAt": "2026-08-22T04:33:56.094Z",
+  "lastEditedAt": "2026-08-30T17:03:27.888Z",
+  "printFiles": {
+    "Articulated Slug (12x) [MK4S]_0.4n_0.2mm_PLA_MK4S_44m.gcode": {
+      "images": [
+        "Articulated Slug.jpg"
+      ]
+    },
+    "Articulated Slug [MK4S]_0.4n_0.2mm_PLA_MK4S_4m.gcode": {
+      "images": [
+        "Articulated Slug.jpg"
+      ]
+    },
+    "Articulated Slug_0.2mm_PLA_MK3S_9m.gcode": {
+      "images": [
+        "Articulated Slug.jpg"
+      ]
+    }
+  },
   "origin": {
     "url": "https://www.thingiverse.com/thing:2818955",
     "creatorName": "8ran",
