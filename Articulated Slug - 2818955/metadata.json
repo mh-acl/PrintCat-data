@@ -1,11 +1,11 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "displayName": "Articulated Slug",
   "tags": [
     "articulated"
   ],
   "importedAt": "2026-07-25T19:58:25.571Z",
-  "lastEditedAt": "2026-08-30T17:03:27.888Z",
+  "lastEditedAt": "2026-09-01T20:44:47.675Z",
   "printFiles": {
     "Articulated Slug (12x) [MK4S]_0.4n_0.2mm_PLA_MK4S_44m.gcode": {
       "images": [
@@ -27,5 +27,15 @@
     "url": "https://www.thingiverse.com/thing:2818955",
     "creatorName": "8ran",
     "creatorUrl": "https://www.thingiverse.com/8ran"
+  },
+  "imageCrops": {
+    "Articulated Slug.jpg": {
+      "thumb": {
+        "x": 0.07478260869565218,
+        "y": 0.0686359687228497,
+        "w": 0.9091304347826087,
+        "h": 0.9083405734144222
+      }
+    }
   }
 }
