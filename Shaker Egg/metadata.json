@@ -1,10 +1,33 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "displayName": "Shaker Egg",
   "tags": [
     "music",
     "noisemaker"
   ],
   "importedAt": "2026-07-26T19:08:54.408Z",
-  "lastEditedAt": "2026-07-26T19:08:54.408Z"
+  "lastEditedAt": "2026-09-01T20:47:50.774Z",
+  "printFiles": {
+    "Shaker Egg [MK4S]_0.4n_0.2mm_PLA_MK4S_30m.gcode": {
+      "images": [
+        "Shaker Egg.jpg"
+      ]
+    },
+    "Shaker Egg_0.6n_0.3mm_PLA_MK3S_46m.gcode": {
+      "images": [
+        "Shaker Egg.jpg"
+      ]
+    }
+  },
+  "itemImage": "thumb.jpg",
+  "imageCrops": {
+    "Shaker Egg.jpg": {
+      "thumb": {
+        "x": 0.0824295010845987,
+        "y": 0.06415257910706545,
+        "w": 0.751409978308026,
+        "h": 0.7507585609016039
+      }
+    }
+  }
 }
