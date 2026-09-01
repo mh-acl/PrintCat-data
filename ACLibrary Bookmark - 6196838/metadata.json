@@ -1,12 +1,12 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "displayName": "ACLibrary Bookmark",
   "tags": [
     "bookmark",
     "books"
   ],
   "importedAt": "2026-07-26T19:04:25.880Z",
-  "lastEditedAt": "2026-09-01T05:48:54.042Z",
+  "lastEditedAt": "2026-09-01T05:59:03.749Z",
   "printFiles": {
     "ACLibrary Bookmark (2 color) [MK4S]_0.4n_0.2mm_PLA_MK4S_3m.gcode": {
       "images": [
@@ -44,5 +44,15 @@
     "creatorName": "acl_makers",
     "creatorUrl": "https://www.thingiverse.com/acl_makers"
   },
-  "itemImage": "thumb.jpg"
+  "itemImage": "thumb.jpg",
+  "imageCrops": {
+    "ACLibrary Bookmark (2 color).jpg": {
+      "thumb": {
+        "x": 0.16017553483269337,
+        "y": 0.19452054794520549,
+        "w": 0.6834887547997806,
+        "h": 0.6827397260273973
+      }
+    }
+  }
 }
