@@ -6,7 +6,7 @@
     "books"
   ],
   "importedAt": "2026-07-26T19:04:25.880Z",
-  "lastEditedAt": "2026-09-01T20:20:35.300Z",
+  "lastEditedAt": "2026-09-02T02:52:37.929Z",
   "printFiles": {
     "ACLibrary Bookmark (2 color) [MK4S]_0.4n_0.2mm_PLA_MK4S_3m.gcode": {
       "images": [
@@ -48,10 +48,10 @@
   "imageCrops": {
     "ACLibrary Bookmark (2 color).jpg": {
       "thumb": {
-        "x": 0.16017553483269337,
-        "y": 0.19452054794520549,
-        "w": 0.6834887547997806,
-        "h": 0.6827397260273973
+        "x": 0.09325287986834888,
+        "y": 0.12438356164383561,
+        "w": 0.8261108063631377,
+        "h": 0.8257534246575342
       }
     },
     "ACLibrary Bookmark.jpg": {
