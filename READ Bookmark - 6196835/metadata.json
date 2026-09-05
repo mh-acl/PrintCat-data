@@ -1,16 +1,17 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "displayName": "READ Bookmark",
   "tags": [
     "bookmark",
     "books"
   ],
   "importedAt": "2026-07-26T19:08:39.906Z",
-  "lastEditedAt": "2026-08-28T05:40:13.486Z",
+  "lastEditedAt": "2026-09-05T14:41:18.097Z",
   "printFiles": {
     "READ Bookmark (2 color) [MK4S]_0.4n_0.2mm_PLA_MK4S_4m.gcode": {
       "images": [
-        "READ Bookmark (2 color).jpg"
+        "READ Bookmark (2 color).jpg",
+        "READ Bookmark.jpg"
       ]
     },
     "READ Bookmark (2 color)_0.15mm_PLA_MK3S_9m.gcode": {
