@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "displayName": "Axolotl",
+  "tags": [
+    "articulated",
+    "decor"
+  ],
+  "importedAt": "2026-09-12T20:34:02.512Z",
+  "lastEditedAt": "2026-09-12T20:34:02.512Z",
+  "printFiles": {
+    "Axlotl - small_0.4n_0.2mm_PLA_MK4S_38m.bgcode": {
+      "images": [
+        "PXL_20260912_192929333.jpg"
+      ]
+    },
+    "Axlotl_0.4n_0.2mm_PLA_MK4S_1h14m.bgcode": {
+      "images": [
+        "PXL_20260912_192911639.jpg"
+      ]
+    }
+  },
+  "origin": {
+    "url": "https://www.thingiverse.com/thing:6945222",
+    "creatorName": "PrintyMcPrintface16",
+    "creatorUrl": "https://www.thingiverse.com/PrintyMcPrintface16"
+  },
+  "itemImage": "PXL_20260912_192832641.jpg",
+  "imageCrops": {
+    "PXL_20260912_192929333.jpg": {
+      "thumb": {
+        "x": 0.3215686274509804,
+        "y": 0.3111979166666667,
+        "w": 0.30220588235294116,
+        "h": 0.4010416666666667
+      }
+    },
+    "PXL_20260912_192911639.jpg": {
+      "thumb": {
+        "x": 0.30808823529411766,
+        "y": 0.2568359375,
+        "w": 0.3818627450980392,
+        "h": 0.5071614583333334
+      }
+    },
+    "PXL_20260912_192832641.jpg": {
+      "thumb": {
+        "x": 0.24044117647058824,
+        "y": 0.17154947916666666,
+        "w": 0.5186274509803922,
+        "h": 0.6888020833333334
+      }
+    }
+  }
+}

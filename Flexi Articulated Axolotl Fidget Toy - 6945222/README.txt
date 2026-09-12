@@ -1,0 +1,4 @@
+Flexi Articulated Axolotl Fidget Toy by PrintyMcPrintface16 on Thingiverse: https://www.thingiverse.com/thing:6945222
+
+Summary:
+Flexible Axolotl Articulating Toy. Supports Recommended For Bottom Gills. This model is for Private Use only. If you wish to sell any of my designs, subscribe to my Patreon for a commercial license that will allow you unlimited prints for sale while you are a memberJoin my Patreon page for free for news about upcoming designs coming models! https://www.patreon.com/c/printymcprintface/membershipIf you like my designs, consider donating to help me keep issuing new models using this link https://www.paypal.me/PrintyMcPrintface16
