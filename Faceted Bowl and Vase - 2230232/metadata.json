@@ -1,11 +1,11 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "displayName": "Faceted Bowl and Vase",
   "tags": [
     "container"
   ],
-  "importedAt": "2026-07-26T19:06:40.810Z",
-  "lastEditedAt": "2026-08-27T22:06:07.164Z",
+  "importedAt": "2026-02-18T21:43:53.011Z",
+  "lastEditedAt": "2026-09-16T02:41:08.115Z",
   "printFiles": {
     "Faceted Vase (large) [MK3S-0.6n]_0.6n_0.48mm_PLA_MK3S_1h26m.gcode": {
       "images": [

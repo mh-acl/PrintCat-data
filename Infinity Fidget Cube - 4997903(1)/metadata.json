@@ -1,11 +1,11 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "displayName": "Infinity Fidget Cube",
   "tags": [
     "fidget"
   ],
-  "importedAt": "2026-07-26T19:07:02.497Z",
-  "lastEditedAt": "2026-08-28T23:23:06.299Z",
+  "importedAt": "2026-02-18T21:43:53.679Z",
+  "lastEditedAt": "2026-09-16T02:41:08.297Z",
   "printFiles": {
     "Infinity Fidget Cube [MK4S]_0.4n_0.2mm_PLA_MK4S_1h57m.gcode": {
       "images": [

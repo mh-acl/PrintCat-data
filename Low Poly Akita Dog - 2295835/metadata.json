@@ -1,11 +1,11 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "displayName": "Low Poly Akita Dog",
   "tags": [
     "figurine"
   ],
-  "importedAt": "2026-07-26T19:07:17.747Z",
-  "lastEditedAt": "2026-08-25T21:29:54.701Z",
+  "importedAt": "2026-02-18T21:43:55.396Z",
+  "lastEditedAt": "2026-09-16T02:41:08.389Z",
   "printFiles": {
     "Low Poly Akita Dog (large) [MK4S]_0.4n_0.2mm_PLA_MK4S_52m.gcode": {
       "images": [

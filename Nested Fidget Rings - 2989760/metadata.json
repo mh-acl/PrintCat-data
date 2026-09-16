@@ -1,11 +1,11 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "displayName": "Nested Fidget Rings",
   "tags": [
     "fidget"
   ],
-  "importedAt": "2026-07-26T19:07:50.234Z",
-  "lastEditedAt": "2026-08-25T21:34:50.432Z",
+  "importedAt": "2026-02-18T21:43:53.764Z",
+  "lastEditedAt": "2026-09-16T02:41:08.516Z",
   "printFiles": {
     "Nested Fidget Rings (2 color) [mk4s]_0.4n_0.2mm_PLA_MK4S_5m.gcode": {
       "images": [

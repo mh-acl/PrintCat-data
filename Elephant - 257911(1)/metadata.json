@@ -1,11 +1,11 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "displayName": "Elephant",
   "tags": [
     "articulated"
   ],
-  "importedAt": "2026-07-26T19:05:59.756Z",
-  "lastEditedAt": "2026-08-22T04:33:56.098Z",
+  "importedAt": "2026-02-18T21:43:55.155Z",
+  "lastEditedAt": "2026-09-16T02:41:08.029Z",
   "origin": {
     "url": "https://www.thingiverse.com/thing:257911",
     "creatorName": "LeFabShop",
