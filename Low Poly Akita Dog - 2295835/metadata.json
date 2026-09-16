@@ -5,13 +5,23 @@
     "figurine"
   ],
   "importedAt": "2026-02-18T21:43:55.396Z",
-  "lastEditedAt": "2026-09-16T02:41:08.389Z",
+  "lastEditedAt": "2026-09-16T23:08:46.460Z",
   "printFiles": {
     "Low Poly Akita Dog (large) [MK4S]_0.4n_0.2mm_PLA_MK4S_52m.gcode": {
       "images": [
         "Low Poly Akita Dog (large) [MK3S-0.6n].jpg"
       ],
-      "displayName": "Low Poly Akita Dog (Large)"
+      "displayName": "Low Poly Akita Dog (Large)",
+      "addedAt": "2026-02-18T21:43:55.443Z"
+    },
+    "Low Poly Akita Dog (large) [MK3S-0.6n]_0.6n_0.35mm_PLA_MK3S_55m.gcode": {
+      "addedAt": "2026-02-18T21:43:55.415Z"
+    },
+    "Low Poly Akita Dog [MK4S]_0.4n_0.2mm_PLA_MK4S_28m.gcode": {
+      "addedAt": "2026-02-18T21:43:55.461Z"
+    },
+    "Low Poly Akita Dog_0.2mm_PLA_MK3S_48m.gcode": {
+      "addedAt": "2026-02-18T21:43:55.478Z"
     }
   },
   "origin": {

@@ -5,7 +5,18 @@
     "container"
   ],
   "importedAt": "2026-02-18T21:43:53.424Z",
-  "lastEditedAt": "2026-09-16T02:41:08.649Z",
+  "lastEditedAt": "2026-09-16T23:08:47.252Z",
+  "printFiles": {
+    "Spiral Pencil Holder [MK3S-0.6n]_0.6n_0.48mm_PLA_MK3S_50m.gcode": {
+      "addedAt": "2026-02-18T21:43:53.435Z"
+    },
+    "Spiral Pencil Holder [MK4S]_0.4n_0.32mm_PLA_MK4S_41m.gcode": {
+      "addedAt": "2026-02-18T21:43:53.446Z"
+    },
+    "Spiral Pencil Holder_0.32mm_PLA_MK3S_1h13m.gcode": {
+      "addedAt": "2026-02-18T21:43:53.457Z"
+    }
+  },
   "origin": {
     "url": "https://www.thingiverse.com/thing:1325680",
     "creatorName": "SIMON68",

@@ -5,22 +5,34 @@
     "container"
   ],
   "importedAt": "2026-02-18T21:43:53.011Z",
-  "lastEditedAt": "2026-09-16T02:41:08.115Z",
+  "lastEditedAt": "2026-09-16T23:08:45.781Z",
   "printFiles": {
     "Faceted Vase (large) [MK3S-0.6n]_0.6n_0.48mm_PLA_MK3S_1h26m.gcode": {
       "images": [
         "Faceted Vase [MK3S-0.6n].jpg"
-      ]
+      ],
+      "addedAt": "2026-02-18T21:43:53.161Z"
     },
     "Faceted Vase (large) [MK4S]_0.4n_0.32mm_PLA_MK4S_1h20m.bgcode": {
       "images": [
         "Faceted Vase [MK3S-0.6n].jpg"
-      ]
+      ],
+      "addedAt": "2026-07-20T22:50:34.232Z"
     },
     "Faceted Vase [MK3S-0.6n]_0.6n_0.48mm_PLA_MK3S_55m.gcode": {
       "images": [
         "Faceted Vase [MK3S-0.6n].jpg"
-      ]
+      ],
+      "addedAt": "2026-02-18T21:43:53.185Z"
+    },
+    "Faceted Bowl (large) [MK3S-0.6n]_0.6n_0.48mm_PLA_MK3S_1h59m.gcode": {
+      "addedAt": "2026-02-18T21:43:53.037Z"
+    },
+    "Faceted Bowl (large) [MK4S]_0.4n_0.32mm_PLA_MK4S_1h21m.gcode": {
+      "addedAt": "2026-02-18T21:43:53.115Z"
+    },
+    "Faceted Bowl [MK3S-0.6n]_0.6n_0.48mm_PLA_MK3S_59m.gcode": {
+      "addedAt": "2026-02-18T21:43:53.137Z"
     }
   },
   "origin": {

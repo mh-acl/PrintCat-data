@@ -5,22 +5,25 @@
     "articulated"
   ],
   "importedAt": "2026-02-18T21:43:55.035Z",
-  "lastEditedAt": "2026-09-16T02:41:07.867Z",
+  "lastEditedAt": "2026-09-16T23:08:45.038Z",
   "printFiles": {
     "Articulated Slug (12x) [MK4S]_0.4n_0.2mm_PLA_MK4S_44m.gcode": {
       "images": [
         "Articulated Slug.jpg"
-      ]
+      ],
+      "addedAt": "2026-02-18T21:43:55.083Z"
     },
     "Articulated Slug [MK4S]_0.4n_0.2mm_PLA_MK4S_4m.gcode": {
       "images": [
         "Articulated Slug.jpg"
-      ]
+      ],
+      "addedAt": "2026-02-18T21:43:55.108Z"
     },
     "Articulated Slug_0.2mm_PLA_MK3S_9m.gcode": {
       "images": [
         "Articulated Slug.jpg"
-      ]
+      ],
+      "addedAt": "2026-02-18T21:43:55.121Z"
     }
   },
   "origin": {
