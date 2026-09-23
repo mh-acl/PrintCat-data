@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 2,
+  "displayName": "Flexi Case for Glasses",
+  "tags": [
+    "container",
+    "practical"
+  ],
+  "importedAt": "2026-09-23T18:06:31.693Z",
+  "lastEditedAt": "2026-09-23T18:06:31.693Z",
+  "printFiles": {
+    "Flexi Case for Glasses_0.4n_0.2mm_PLA_MK4S_2h33m.gcode": {
+      "images": [
+        "PXL_20260923_175416979.jpg",
+        "PXL_20260923_175656573.jpg"
+      ],
+      "addedAt": "2026-09-23T18:06:31.692Z"
+    },
+    "Flexi Case for Glasses.3mf": {
+      "addedAt": "2026-09-23T18:06:31.692Z"
+    },
+    "flexi_case_for_glasses.3mf": {
+      "addedAt": "2026-09-23T18:06:31.692Z"
+    }
+  },
+  "origin": {
+    "url": "https://printables.com/model/1105484-flexi-glasses-case",
+    "creatorName": "rorys3D",
+    "creatorUrl": "https://printables.com/@rorys3D"
+  },
+  "imageCrops": {
+    "PXL_20260923_175656573.jpg": {
+      "thumb": {
+        "x": 0.1513671875,
+        "y": 0.2306372549019608,
+        "w": 0.6884765625,
+        "h": 0.5186274509803922
+      }
+    },
+    "PXL_20260923_175416979.jpg": {
+      "thumb": {
+        "x": 0.11360677083333333,
+        "y": 0.24975490196078431,
+        "w": 0.6481119791666666,
+        "h": 0.48799019607843136
+      }
+    }
+  }
+}

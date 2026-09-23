@@ -2,19 +2,29 @@
   "schemaVersion": 2,
   "displayName": "Spiral Pencil Holder",
   "tags": [
-    "container"
+    "container",
+    "practical"
   ],
   "importedAt": "2026-02-18T21:43:53.424Z",
-  "lastEditedAt": "2026-09-16T23:08:47.252Z",
+  "lastEditedAt": "2026-09-23T18:07:17.005Z",
   "printFiles": {
     "Spiral Pencil Holder [MK3S-0.6n]_0.6n_0.48mm_PLA_MK3S_50m.gcode": {
-      "addedAt": "2026-02-18T21:43:53.435Z"
+      "addedAt": "2026-02-18T21:43:53.435Z",
+      "images": [
+        "Spiral Pencil Holder.jpg"
+      ]
     },
     "Spiral Pencil Holder [MK4S]_0.4n_0.32mm_PLA_MK4S_41m.gcode": {
-      "addedAt": "2026-02-18T21:43:53.446Z"
+      "addedAt": "2026-02-18T21:43:53.446Z",
+      "images": [
+        "Spiral Pencil Holder.jpg"
+      ]
     },
     "Spiral Pencil Holder_0.32mm_PLA_MK3S_1h13m.gcode": {
-      "addedAt": "2026-02-18T21:43:53.457Z"
+      "addedAt": "2026-02-18T21:43:53.457Z",
+      "images": [
+        "Spiral Pencil Holder.jpg"
+      ]
     }
   },
   "origin": {
