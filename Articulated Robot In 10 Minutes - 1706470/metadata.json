@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "displayName": "Small Robot",
+  "tags": [
+    "articulated"
+  ],
+  "importedAt": "2026-10-03T21:58:10.134Z",
+  "lastEditedAt": "2026-10-03T21:58:10.134Z",
+  "printFiles": {
+    "Small Robot_0.4n_0.2mm_PLA_MK4S_10m.gcode": {
+      "images": [
+        "PXL_20260924_003003345.jpg"
+      ],
+      "addedAt": "2026-10-03T21:58:10.133Z"
+    },
+    "Small Robot.3mf": {
+      "addedAt": "2026-10-03T21:58:10.133Z"
+    }
+  },
+  "origin": {
+    "url": "https://www.thingiverse.com/thing:1706470",
+    "creatorName": "NirDobovizki",
+    "creatorUrl": "https://www.thingiverse.com/NirDobovizki"
+  }
+}
