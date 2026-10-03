@@ -5,7 +5,7 @@
     "articulated"
   ],
   "importedAt": "2026-10-03T21:58:10.134Z",
-  "lastEditedAt": "2026-10-03T21:58:10.134Z",
+  "lastEditedAt": "2026-10-03T23:21:04.463Z",
   "printFiles": {
     "Small Robot_0.4n_0.2mm_PLA_MK4S_10m.gcode": {
       "images": [
@@ -21,5 +21,21 @@
     "url": "https://www.thingiverse.com/thing:1706470",
     "creatorName": "NirDobovizki",
     "creatorUrl": "https://www.thingiverse.com/NirDobovizki"
+  },
+  "imageCrops": {
+    "PXL_20260924_003003345.jpg": {
+      "thumb": {
+        "x": 0.205078125,
+        "y": 0.27475490196078434,
+        "w": 0.5035807291666666,
+        "h": 0.37916666666666665
+      },
+      "full": {
+        "x": 0.13053385416666666,
+        "y": 0.28259803921568627,
+        "w": 0.6555989583333334,
+        "h": 0.38553921568627453
+      }
+    }
   }
 }
